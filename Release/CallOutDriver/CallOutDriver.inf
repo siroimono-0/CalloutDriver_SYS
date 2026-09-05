@@ -3,7 +3,7 @@ Signature   = "$WINDOWS NT$"
 Class       = WFPCALLOUTS
 ClassGuid   = {57465043-616C-6C6F-7574-5F636C617373}
 Provider    = %ProviderName%
-DriverVer = 09/05/2026,10.31.46.499
+DriverVer = 09/05/2026,23.44.38.258
 CatalogFile = CallOutDriver.cat
 PnpLockdown = 1
 
